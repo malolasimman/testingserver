@@ -1,0 +1,6 @@
+---
+label: "ecen5823-assignment2-malolasimman_2"
+project:
+- id: "main"
+  path: "ecen5823-assignment2-malolasimman.slcp"
+  output: "."
